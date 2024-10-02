@@ -1,0 +1,30 @@
+Instructions to run the project:
+
+
+1. Download and install MYSQL software
+
+2. Setup `root` and password
+
+3. Extact the "SIS Project Submission" file
+
+4. Open MYSQL command Line Client
+
+5. Enter root password
+
+6. CREATE DATABASE sis;
+
+7. USE sis;
+
+8. To create table run this cmd: 
+	source D:/SIS Project Submission/SIS Project Submission/Build/SIS_Build_Tables.sql;
+	
+9. To Populate table with values use this cmd:
+	source D:/SIS Project Submission/SIS Project Submission/Populate/populate_sis.sql;
+	
+10. To run report:
+	source D:/SIS Project Submission/SIS Project Submission/Reports/JK_AttendanceReport/JK_AttendanceReport.sql;
+	
+	(change the directory for the rest of the report)
+	
+11. To view the values inside tables run this cmd:
+	SELECT * FROM Attendance;

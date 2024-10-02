@@ -1,0 +1,26 @@
+- Student: Stores basic student information like name, DOB, gender, address, and contact details.
+- Parent: Stores parent details including name, email, and phone number.
+- Parent_Student: Links students to their parents, defining the relationship.
+- Course: Contains details about the courses offered, including name and credits.
+- Enrollment: Tracks which students are enrolled in which courses and when.
+- Grade: Records the grades that students receive for their courses.
+- Payment: Logs payments made by students, including amount, date, and method.
+- Scholarship: Details available scholarships, including name, amount, and criteria.
+- Student_Scholarship: Tracks which students have received which scholarships.
+- Health_Record: Stores health information such as blood type, allergies, and conditions.
+- Medical_Visit: Logs student medical visits, including the reason and treatment given.
+- Vaccination_Record: Records vaccinations received by students, including vaccine name and date.
+- Activity: Lists extracurricular activities available to students.
+- Student_Activity: Tracks student participation in extracurricular activities.
+- Activity_Schedule: Schedules for extracurricular activities, including day, time, and location.
+- Bus: Stores information about buses, including bus number and capacity.
+- Bus_Route: Details bus routes, including start and end locations.
+- Student_Ridership: Tracks which students use which bus routes.
+- Faculty: Stores information about faculty members, including name and department.
+- Faculty_Course: Links faculty members to the courses they teach.
+- Library_Author: Stores author information for books in the library.
+- Library_Book: Tracks books in the library, including title, author, and available copies.
+- Library_Borrow: Logs which students have borrowed which books and their return status.
+- Library_Fine: Tracks fines for overdue library books.
+- Disciplinary_Action: Defines possible disciplinary actions and their descriptions.
+- Disciplinary_Record: Records disciplinary actions taken against students.
