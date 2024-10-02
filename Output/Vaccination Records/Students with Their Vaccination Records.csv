@@ -1,0 +1,31 @@
+student_id,first_name,last_name,vaccine_name,vaccination_date
+1,Aman,Gupta,COVID-19,2024-05-01
+2,Neha,Patel,Flu,2024-04-15
+3,Rohit,Sharma,"Hepatitis B",2024-03-20
+4,Megha,Nair,MMR,2024-02-25
+5,Arjun,Reddy,"COVID-19 Booster",2024-01-30
+6,Ritu,Rao,Varicella,2024-05-02
+7,Vivek,Singh,HPV,2024-04-16
+8,Asha,Iyer,Tetanus,2024-03-21
+9,Kunal,Mehta,Flu,2024-02-26
+10,Sneha,Kumar,COVID-19,2024-01-31
+11,Aakash,Joshi,"Hepatitis A",2024-05-03
+12,Naina,Desai,Meningitis,2024-04-17
+13,Aniket,Verma,MMR,2024-03-22
+14,Sanjana,Shah,Varicella,2024-02-27
+15,Karthik,Chopra,"COVID-19 Booster",2024-02-01
+16,Preeti,Menon,Flu,2024-05-04
+17,Harsh,Kulkarni,"Hepatitis B",2024-04-18
+18,Divya,Yadav,HPV,2024-03-23
+19,Siddharth,Banerjee,COVID-19,2024-02-28
+20,Richa,Kapoor,Tetanus,2024-02-02
+21,Rahul,Sinha,Meningitis,2024-05-05
+22,Tanya,Bose,Varicella,2024-04-19
+23,Nikhil,Gupta,"COVID-19 Booster",2024-03-24
+24,Simran,Mishra,Flu,2024-02-29
+25,Aditya,Bhat,"Hepatitis A",2024-02-03
+26,Madhuri,Sharma,MMR,2024-05-06
+27,Vikram,Thakur,Tetanus,2024-04-20
+28,Priya,Naik,COVID-19,2024-03-25
+29,Akash,Pillai,HPV,2024-03-01
+30,Shreya,Chand,"COVID-19 Booster",2024-02-04

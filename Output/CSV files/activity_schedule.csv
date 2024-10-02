@@ -1,0 +1,16 @@
+schedule_id,activity_id,day_of_week,start_time,end_time,location
+1,1,Monday,10:00:00,11:00:00,"Basketball Court"
+2,2,Tuesday,14:00:00,15:00:00,"Debate Room"
+3,3,Wednesday,16:00:00,17:00:00,"Music Room"
+4,4,Thursday,12:00:00,13:00:00,"Drama Theater"
+5,5,Friday,09:00:00,10:00:00,"Robotics Lab"
+6,6,Saturday,11:00:00,12:00:00,"Art Studio"
+7,7,Monday,13:00:00,14:00:00,"Science Lab"
+8,8,Tuesday,15:00:00,16:00:00,"Chess Room"
+9,9,Wednesday,17:00:00,18:00:00,"Swimming Pool"
+10,10,Thursday,08:00:00,09:00:00,"Coding Lab"
+11,11,Friday,10:00:00,11:00:00,"Photography Room"
+12,12,Saturday,12:00:00,13:00:00,"Community Hall"
+13,13,Monday,14:00:00,15:00:00,"Yoga Room"
+14,14,Tuesday,16:00:00,17:00:00,Gym
+15,15,Wednesday,09:00:00,10:00:00,"Environmental Club Room"

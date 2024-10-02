@@ -1,0 +1,6 @@
+fine_id,borrow_id,amount,status
+1,1,10.00,Paid
+2,2,20.00,Unpaid
+3,3,5.00,Paid
+4,4,15.00,Unpaid
+5,5,7.50,Paid

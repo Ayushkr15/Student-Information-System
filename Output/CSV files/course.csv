@@ -1,0 +1,16 @@
+course_id,course_name,course_description,credits
+101,"Computer Science Fundamentals","Introduction to computer science principles",3
+102,"Data Structures","In-depth study of data structures",4
+103,"Software Engineering","Principles of software development",3
+104,"Database Systems","Understanding relational databases",3
+105,"Networking Basics","Introduction to computer networks",3
+106,"Web Development","Introduction to web design and development",3
+107,"Operating Systems","Concepts and design of operating systems",3
+108,"Object-Oriented Programming","Principles of object-oriented programming using Java",4
+109,"Calculus II","Advanced calculus topics for engineering students",4
+110,"Digital Logic","Fundamentals of digital logic and circuit design",3
+111,"Technical Writing","Developing technical communication skills for engineers",3
+112,"Physics for Engineering","Physics principles applied to engineering problems",4
+113,"Ethics and Professionalism in Technology","Understanding ethical and professional responsibilities in technology fields",2
+114,"Software Testing and Quality Assurance","Principles and practices of software testing and quality control",3
+115,"Mobile Application Development","Design and development of mobile applications",3

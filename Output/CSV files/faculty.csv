@@ -1,0 +1,16 @@
+faculty_id,first_name,last_name,department,email
+1,John,Doe,"Physical Education",john.doe@university.edu
+2,Jane,Smith,Communication,jane.smith@university.edu
+3,Alan,Walker,Music,alan.walker@university.edu
+4,Emily,Johnson,Drama,emily.johnson@university.edu
+5,Michael,Brown,Engineering,michael.brown@university.edu
+6,Jessica,White,Arts,jessica.white@university.edu
+7,Thomas,Harris,Science,thomas.harris@university.edu
+8,David,Lee,Mathematics,david.lee@university.edu
+9,Sarah,Miller,"Physical Education",sarah.miller@university.edu
+10,Robert,Wilson,"Computer Science",robert.wilson@university.edu
+11,Sophia,Moore,Photography,sophia.moore@university.edu
+12,Olivia,Taylor,"Social Work",olivia.taylor@university.edu
+13,Liam,Anderson,"Health & Wellness",liam.anderson@university.edu
+14,Emma,Thomas,Fitness,emma.thomas@university.edu
+15,Ava,Jackson,"Environmental Studies",ava.jackson@university.edu

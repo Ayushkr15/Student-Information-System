@@ -1,0 +1,31 @@
+record_id,student_id,blood_type,allergies,existing_conditions
+1,1,O+,None,None
+2,2,A-,Peanuts,Asthma
+3,3,B+,None,None
+4,4,AB-,Dust,"Allergic Rhinitis"
+5,5,O-,None,Hypertension
+6,6,A+,Pollen,Asthma
+7,7,B-,None,None
+8,8,AB+,Peanuts,None
+9,9,O+,None,Diabetes
+10,10,A-,Dust,Asthma
+11,11,B+,None,None
+12,12,AB-,None,Hypertension
+13,13,O-,Peanuts,None
+14,14,A+,Pollen,Asthma
+15,15,B-,None,None
+16,16,AB+,None,"Allergic Rhinitis"
+17,17,O+,Dust,Asthma
+18,18,A-,None,None
+19,19,B+,Peanuts,Hypertension
+20,20,AB-,None,None
+21,21,O-,Pollen,Asthma
+22,22,A+,None,Diabetes
+23,23,B-,None,None
+24,24,AB+,None,Hypertension
+25,25,O+,Dust,None
+26,26,A-,None,Asthma
+27,27,B+,Pollen,None
+28,28,AB-,None,"Allergic Rhinitis"
+29,29,O-,Peanuts,None
+30,30,A+,None,None

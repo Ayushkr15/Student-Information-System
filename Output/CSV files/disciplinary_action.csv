@@ -1,0 +1,5 @@
+action_id,action_type,description
+1,Warning,"Late submission of assignments"
+2,Suspension,"Academic dishonesty"
+3,Probation,"Repeated violations of conduct"
+4,Expulsion,"Severe violation of policies"

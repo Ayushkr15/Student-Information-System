@@ -1,0 +1,31 @@
+student_id,first_name,last_name,course_name,enrollment_date
+1,Aman,Gupta,"Computer Science Fundamentals",2024-08-15
+2,Neha,Patel,"Data Structures",2024-08-15
+3,Rohit,Sharma,"Software Engineering",2024-08-15
+4,Megha,Nair,"Database Systems",2024-08-15
+5,Arjun,Reddy,"Networking Basics",2024-08-15
+6,Ritu,Rao,"Web Development",2024-08-15
+7,Vivek,Singh,"Operating Systems",2024-08-15
+8,Asha,Iyer,"Object-Oriented Programming",2024-08-15
+9,Kunal,Mehta,"Calculus II",2024-08-15
+10,Sneha,Kumar,"Digital Logic",2024-08-15
+11,Aakash,Joshi,"Technical Writing",2024-08-15
+12,Naina,Desai,"Physics for Engineering",2024-08-15
+13,Aniket,Verma,"Ethics and Professionalism in Technology",2024-08-15
+14,Sanjana,Shah,"Software Testing and Quality Assurance",2024-08-15
+15,Karthik,Chopra,"Mobile Application Development",2024-08-15
+16,Preeti,Menon,"Computer Science Fundamentals",2024-08-15
+17,Harsh,Kulkarni,"Data Structures",2024-08-15
+18,Divya,Yadav,"Software Engineering",2024-08-15
+19,Siddharth,Banerjee,"Database Systems",2024-08-15
+20,Richa,Kapoor,"Networking Basics",2024-08-15
+21,Rahul,Sinha,"Web Development",2024-08-15
+22,Tanya,Bose,"Operating Systems",2024-08-15
+23,Nikhil,Gupta,"Object-Oriented Programming",2024-08-15
+24,Simran,Mishra,"Calculus II",2024-08-15
+25,Aditya,Bhat,"Digital Logic",2024-08-15
+26,Madhuri,Sharma,"Technical Writing",2024-08-15
+27,Vikram,Thakur,"Physics for Engineering",2024-08-15
+28,Priya,Naik,"Ethics and Professionalism in Technology",2024-08-15
+29,Akash,Pillai,"Software Testing and Quality Assurance",2024-08-15
+30,Shreya,Chand,"Mobile Application Development",2024-08-15

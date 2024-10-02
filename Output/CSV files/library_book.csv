@@ -1,0 +1,6 @@
+book_id,title,author_id,isbn,available_copies
+1,"Harry Potter",1,9780747532743,5
+2,"Game of Thrones",2,9780553593716,3
+3,"The Lord of the Rings",3,9780618640157,4
+4,"Murder on the Orient Express",4,9780062073501,2
+5,"The Shining",5,9780385121675,6

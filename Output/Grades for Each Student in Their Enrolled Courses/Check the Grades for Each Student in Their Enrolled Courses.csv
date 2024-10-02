@@ -1,0 +1,31 @@
+student_id,first_name,last_name,course_name,grade
+1,Aman,Gupta,"Computer Science Fundamentals",A
+2,Neha,Patel,"Data Structures",B
+3,Rohit,Sharma,"Software Engineering",B+
+4,Megha,Nair,"Database Systems",A-
+5,Arjun,Reddy,"Networking Basics",B
+6,Ritu,Rao,"Web Development",B+
+7,Vivek,Singh,"Operating Systems",A
+8,Asha,Iyer,"Object-Oriented Programming",B
+9,Kunal,Mehta,"Calculus II",A-
+10,Sneha,Kumar,"Digital Logic",B+
+11,Aakash,Joshi,"Technical Writing",A
+12,Naina,Desai,"Physics for Engineering",C+
+13,Aniket,Verma,"Ethics and Professionalism in Technology",C+
+14,Sanjana,Shah,"Software Testing and Quality Assurance",B
+15,Karthik,Chopra,"Mobile Application Development",B+
+16,Preeti,Menon,"Computer Science Fundamentals",A-
+17,Harsh,Kulkarni,"Data Structures",B
+18,Divya,Yadav,"Software Engineering",B+
+19,Siddharth,Banerjee,"Database Systems",A
+20,Richa,Kapoor,"Networking Basics",B
+21,Rahul,Sinha,"Web Development",B+
+22,Tanya,Bose,"Operating Systems",B-
+23,Nikhil,Gupta,"Object-Oriented Programming",C
+24,Simran,Mishra,"Calculus II",A-
+25,Aditya,Bhat,"Digital Logic",C+
+26,Madhuri,Sharma,"Technical Writing",B
+27,Vikram,Thakur,"Physics for Engineering",B+
+28,Priya,Naik,"Ethics and Professionalism in Technology",A-
+29,Akash,Pillai,"Software Testing and Quality Assurance",B
+30,Shreya,Chand,"Mobile Application Development",B+

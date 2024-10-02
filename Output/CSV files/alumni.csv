@@ -1,0 +1,16 @@
+alumni_id,student_id,graduation_year,current_occupation,email,phone_number
+1,1,2023,"Software Engineer",aman.gupta@gmail.com,1234567890
+2,2,2023,"Data Analyst",neha.patel@gmail.com,1234567891
+3,3,2022,"Web Developer",rohit.sharma@gmail.com,1234567892
+4,4,2022,"Project Manager",megha.nair@gmail.com,1234567893
+5,5,2021,"Systems Analyst",arjun.reddy@gmail.com,1234567894
+6,6,2021,"Database Administrator",ritu.rao@gmail.com,1234567895
+7,7,2020,"Network Engineer",vivek.singh@gmail.com,1234567896
+8,8,2020,"QA Engineer",asha.iyer@gmail.com,1234567897
+9,9,2019,"Cybersecurity Analyst",kunal.mehta@gmail.com,1234567898
+10,10,2019,"UX Designer",sneha.kumar@gmail.com,1234567899
+11,11,2018,"DevOps Engineer",aakash.joshi@gmail.com,1234567800
+12,12,2018,"Cloud Architect",naina.desai@gmail.com,1234567801
+13,13,2017,"AI Specialist",aniket.verma@gmail.com,1234567802
+14,14,2017,"Product Manager",sanjana.shah@gmail.com,1234567803
+15,15,2016,"Full Stack Developer",karthik.chopra@gmail.com,1234567804
