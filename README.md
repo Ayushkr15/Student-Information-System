@@ -6,7 +6,7 @@ Welcome to the **Student Information System (SIS)**, a user-friendly platform de
 
 ## 🌟 Project Overview
 
-The **Student Information System (SIS)** is a web application built to simplify and automate the storage and management of student information. Whether you are an administrator, faculty member, or student, this system helps ensure data is organized and easily accessible.
+The **Student Information System (SIS)** is a application built to simplify and automate the storage and management of student information. Whether you are an administrator, faculty member, or student, this system helps ensure data is organized and easily accessible.
 
 With SIS, you can:
 - 📋 Manage student records, course enrollments, and faculty assignments.
@@ -37,9 +37,7 @@ With SIS, you can:
 
 ## 🛠️ Technologies Used
 
-- **Backend**: Node.js & Express.js (Fast and efficient backend for smooth processing).
-- **Frontend**: HTML, CSS, and JavaScript (Interactive user interface with responsive design).
-- **Database**: MongoDB (For storing and managing all student, faculty, and course data).
+- **Database**: MYSQL
 - **Version Control**: Git & GitHub (Keeping track of changes and collaboration).
 - **Deployment**: GitHub Pages / Local Deployment.
 
